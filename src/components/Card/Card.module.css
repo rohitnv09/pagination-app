@@ -1,0 +1,40 @@
+.card {
+  background-color: var(--primary-50);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  min-width: 192px;
+  min-height: 244px;
+  box-shadow: 0px 1px 16px 1px rgba(17, 24, 39, 0.05);
+  border-radius: 12px;
+  padding: 39px 5px;
+  margin: 16px;
+  word-break: break-word;
+  text-align: center;
+}
+
+.avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: var(--primary-600);
+  width: 96px;
+  height: 96px;
+  line-height: 0;
+  padding: 25px 0;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.member__name {
+  color: var(--neutral-900);
+  margin-bottom: 5px;
+}
+
+.details {
+  color: var(--neutral-500);
+  margin-bottom: 5px;
+}
