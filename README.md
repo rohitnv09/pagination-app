@@ -1,3 +1,10 @@
+Hosted App Link : https://rohit-sharma-pagination-react-app.netlify.app/
+
+Quick Description:
+- Creating using Create React App. React Router DOM is the only external library used in this project.
+- Display users info in form of Cards and implemented toggleable dark theme functionality.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
